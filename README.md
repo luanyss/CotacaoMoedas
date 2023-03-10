@@ -23,7 +23,7 @@ Ferramentas utilizadas para criar o projeto:
 
 * [LiveData] Utilizada para atualização automática da interface do usuário.
 
-![Cotação Moedas]()
+![Cotação Moedas](https://github.com/luanyss/ImersaoCotacaoMoedas/blob/master/ezgif.com-video-to-gif%20(1).gif)
 
 ---
 ⌨️ com ❤️ por [Luany](https://github.com/luanyss) 😊
